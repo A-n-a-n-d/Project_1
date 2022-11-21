@@ -1,1 +1,7 @@
 hello Git User
+
+welcome to git
+
+main()
+
+now we are doing changes in 10 file at a time
