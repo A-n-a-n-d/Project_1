@@ -5,3 +5,6 @@ welcome to git
 main()
 
 now we are doing changes in 10 file at a time
+
+main() { this is public static void main 
+ 		sysout("Hey hello git ...!}"
